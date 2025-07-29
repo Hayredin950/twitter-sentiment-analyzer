@@ -7,3 +7,6 @@
 ### 2025-07-11T18:20:50
 - chore: update curriculum metadata
 
+### 2025-07-29T12:02:50
+- style: improve course navigation layout
+
