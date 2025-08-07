@@ -10,3 +10,6 @@
 ### 2025-07-29T12:02:50
 - style: improve course navigation layout
 
+### 2025-08-07T17:52:50
+- feat: add interactive quiz module
+
