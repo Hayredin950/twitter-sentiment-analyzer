@@ -13,3 +13,6 @@
 ### 2025-08-07T17:52:50
 - feat: add interactive quiz module
 
+### 2025-08-20T22:13:50
+- refactor: modularize content delivery system
+
