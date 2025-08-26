@@ -22,3 +22,6 @@
 ### 2025-08-20T18:26:50
 - feat: add interactive quiz module
 
+### 2025-08-26T16:36:50
+- docs: update instructor onboarding guide
+
