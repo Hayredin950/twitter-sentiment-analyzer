@@ -25,3 +25,6 @@
 ### 2025-08-26T16:36:50
 - docs: update instructor onboarding guide
 
+### 2025-09-16T14:19:50
+- docs: update instructor onboarding guide
+
