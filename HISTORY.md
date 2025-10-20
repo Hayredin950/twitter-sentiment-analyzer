@@ -46,3 +46,6 @@
 ### 2025-10-20T13:30:50
 - refactor: modularize content delivery system
 
+### 2025-10-20T15:31:50
+- docs: update instructor onboarding guide
+
