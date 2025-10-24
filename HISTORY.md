@@ -49,3 +49,6 @@
 ### 2025-10-20T15:31:50
 - docs: update instructor onboarding guide
 
+### 2025-10-24T13:13:50
+- test: verify code editor execution sandbox
+
