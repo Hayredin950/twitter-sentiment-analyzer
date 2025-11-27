@@ -52,3 +52,6 @@
 ### 2025-10-24T13:13:50
 - test: verify code editor execution sandbox
 
+### 2025-11-27T17:58:50
+- feat: implement student certification logic
+
