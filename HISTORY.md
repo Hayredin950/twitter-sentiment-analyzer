@@ -55,3 +55,6 @@
 ### 2025-11-27T17:58:50
 - feat: implement student certification logic
 
+### 2025-12-31T14:52:50
+- fix: progress tracking persistence issue
+
