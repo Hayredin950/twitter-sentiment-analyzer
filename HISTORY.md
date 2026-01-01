@@ -64,3 +64,6 @@
 ### 2026-01-01T13:04:50
 - test: verify code editor execution sandbox
 
+### 2026-01-01T18:23:50
+- fix: progress tracking persistence issue
+
