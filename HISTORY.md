@@ -61,3 +61,6 @@
 ### 2025-12-31T15:31:50
 - style: improve course navigation layout
 
+### 2026-01-01T13:04:50
+- test: verify code editor execution sandbox
+
