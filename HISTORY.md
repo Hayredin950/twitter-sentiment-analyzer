@@ -67,3 +67,6 @@
 ### 2026-01-01T18:23:50
 - fix: progress tracking persistence issue
 
+### 2026-01-01T20:41:50
+- chore: update curriculum metadata
+
