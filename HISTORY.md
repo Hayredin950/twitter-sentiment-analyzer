@@ -73,3 +73,6 @@
 ### 2026-01-11T12:34:50
 - chore: update curriculum metadata
 
+### 2026-01-11T16:57:50
+- style: improve course navigation layout
+
