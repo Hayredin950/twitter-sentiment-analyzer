@@ -79,3 +79,6 @@
 ### 2026-01-11T16:41:50
 - fix: progress tracking persistence issue
 
+### 2026-02-10T15:16:50
+- fix: progress tracking persistence issue
+
