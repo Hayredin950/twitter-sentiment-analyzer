@@ -82,3 +82,6 @@
 ### 2026-02-10T15:16:50
 - fix: progress tracking persistence issue
 
+### 2026-03-04T10:19:50
+- style: improve course navigation layout
+
