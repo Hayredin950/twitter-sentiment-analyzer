@@ -85,3 +85,6 @@
 ### 2026-03-04T10:19:50
 - style: improve course navigation layout
 
+### 2026-03-27T15:34:50
+- style: improve course navigation layout
+
