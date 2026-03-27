@@ -91,3 +91,6 @@
 ### 2026-03-27T18:41:50
 - docs: update instructor onboarding guide
 
+### 2026-03-27T09:55:50
+- chore: update curriculum metadata
+
