@@ -97,3 +97,6 @@
 ### 2026-04-09T14:49:50
 - docs: update instructor onboarding guide
 
+### 2026-04-09T17:22:50
+- style: improve course navigation layout
+
